@@ -1,3 +1,0 @@
-# Dependencias del proyecto
-# Por ahora está vacío, ya que el programa no requiere librerías externas
-pytest
